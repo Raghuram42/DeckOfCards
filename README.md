@@ -6,7 +6,7 @@ Date      :  Jan. 23, 2021
 
 ## Program Description 
 
-Using C#, created a Console Application which represents of a deck of 
+Using C#, created a Console Application which represents deck of 
 cards.
 
 ## Source files
