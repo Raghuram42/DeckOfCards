@@ -39,6 +39,6 @@ Name:  Deck.cs
    C:\Users\RaghuramVoruganti\Documents\Visual Studio 2017\Projects\DeckOfCards\DeckOfCards
    
 3. To Run as a Console Application
-   Make sure Card.cs is open in Visual Studios tab is selected
+   Make sure Program.cs is open in Visual Studios tab is selected
    	-Hit F5 or Debug -> Start Debugging
  
